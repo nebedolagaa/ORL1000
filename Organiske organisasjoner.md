@@ -1,0 +1,2 @@
+I den organiske organisasjonen er arbeidsoppgavene mer generelt definert og arbeidstakerne har stor fleksibilitet i arbeidsoppgaver og utførelsen av disse. Arbeidstakerne har stor autonomi i sin arbeidsutførelse og samarbeider med andre etter behov. I stedet for å dirigere sine underordnede er relasjonen preget av samarbeid.
+#Burns #Stalker 

@@ -1,0 +1,1 @@
+er et psykologisk behov for å etablere nære følelsesmessige bånd og tilknytning til andre mennesker. Behov for å være i gode mellommenneskelige relasjoner. Tilhørighet er en del av [[Selvbestemmelsesteori]].

@@ -1,0 +1,1 @@
+handler om en persons iboende ønske om å føle seg effektiv i samspill med omgivelsene. Kompetanse er en del av [[Selvbestemmelsesteori]].

@@ -1,0 +1,1 @@
+Disse behovene er relatert til kreativ og produktiv utfoldelse, der utvikling av det menneskelige potensialet står sentralt

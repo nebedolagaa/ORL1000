@@ -1,0 +1,1 @@
+Valens beskriver i hvilken grad de forutsette konsekvensene for en person anses som attraktive eller ikke

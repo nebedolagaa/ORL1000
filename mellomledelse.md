@@ -1,0 +1,1 @@
+har som oppgave å følge med på at medarbeidere jobber mot målene, og koordinere aktiviteter. De skal også være bindeleddet mellom den overordnende ledelsen og mellomledernes medarbeidere ved å formidle informasjon både ovenfra og nedenfra. 

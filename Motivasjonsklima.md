@@ -1,0 +1,2 @@
+s. 107
+Ledere spiller en viktig rolle når det gjelder å skape motivasjonsklimaet siden de sender signaler om hva slags atferd som forventes av medarbeiderne, og hva slags atferd som støttes og belønnes, og dermed definerer hva som anses som henholdsvis suksess og nederlag

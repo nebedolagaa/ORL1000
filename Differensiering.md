@@ -1,0 +1,3 @@
+Den andre strategien henspiller på at organisasjonen forsøker å lage noe som fremstår som unikt i hele bransjen. Dette kan knyttes til merkevarebygging (klesmerker som Gucci og Prada, eller bilmerker som Mercedes og BMW), til en spesielt god service (bilfirma som lover kundene 24-timers service), spesiell design (Apples produkter), eller andre elementer som gjør at det man produserer, skiller seg ut fra de andre konkurrentene i bransjen. Klarer man å skille seg ut, kan man også forlange en høyere pris.
+
+#Porter 

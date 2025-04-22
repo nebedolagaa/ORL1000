@@ -1,0 +1,1 @@
+Behovet for prestasjon kjennetegner et ønske om å gjøre det bra sammenlignet med en bestemt prestasjonsstandard. Et eksempel kan være en ansatt som prøver å øke produktiviteten sin. Sosiale insentiver som aktiverer behovet for prestasjon, er ønsket om å gjøre noe på en god måte for å vise sin personlige kompetanse (evner, ferdigheter)

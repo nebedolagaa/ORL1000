@@ -1,0 +1,1 @@
+Organisatoriske ressurser knyttet til både formelle elementer som struktur og systemer, samt uformelle elementer som relasjoner mellom medlemmene i organisasjonen.

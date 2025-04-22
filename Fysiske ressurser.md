@@ -1,0 +1,1 @@
+fysiske ressurser som maskiner, data, bygninger, tilgang til råmaterialer og fysisk lokalisering, samt tilgang på kapital

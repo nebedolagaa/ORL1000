@@ -1,0 +1,3 @@
+Den siste strategien innebærer at en organisasjon konsentrerer  hele sin virksomhet om en liten del av markedet, ofte kalt et segment. Noen bedrifter fokuserer for eksempel utelukkende på bedriftsmarkedet, og selger ikke til privatpersoner. Aviser som Dagens Næringsliv og Finansavisen har valgt å konsentrere seg om en avgrenset gruppe av avislesere. I dette segmentet kan man så igjen velge om man ønsker å bli kostnadsleder (se [[Kostnadsledelse]]) eller om en vil fremstå som noe unikt (se [[Differensiering]]).
+
+#Porter 

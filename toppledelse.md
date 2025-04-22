@@ -1,0 +1,1 @@
+består av de ansatte med det overordnede administrative ansvaret og er for sin del ansvarlig overfor et styre. En toppledelse kan for eksempel være administrerende direktør eller konsernsjef sammen med divisjonsdirektører, finansdirektør, HR-direktør osv.

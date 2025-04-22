@@ -1,0 +1,1 @@
+vrooms forventningsteori baserer seg på antakelsen om at individet gjør bevisste og rasjonelle valg i egen jobbadferd: vi mennesker vurderer ulik jobbatferd på en rasjonell måte og velger den adferden vi tror fører til de belønningene vi verdsetter mest. 

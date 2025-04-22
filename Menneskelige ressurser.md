@@ -1,0 +1,1 @@
+Menneskelige ressurser som kompetanse, innsikt, erfaring og intelligens hos ansatte og ledere

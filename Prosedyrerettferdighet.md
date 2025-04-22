@@ -1,0 +1,1 @@
+Hvordan vi opplever prosessen rundt fordeling av goder

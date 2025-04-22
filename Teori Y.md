@@ -1,0 +1,3 @@
+I teori Y blir arbeidstakere ansett som å ha store ressurser og som å motiveres av arbeidsoppgavene i seg selv når forholdene legger til rette for dette. McGregor poengterer at når forholdene blir lag til rette for det, er arbeidstakere motivert for å ta ansvar for egne arbeidsoppgaver, og da kan jobben i seg selv være belønnende. Å arbeide er altså ikke i utgangspunktet nnoe negativt slik [[Teori X]] hevder, men er like naturlig og belønnende som lek og hvilke.
+
+#McGregor 

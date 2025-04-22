@@ -1,0 +1,1 @@
+Behovet for tilhørighet handler om ønsket om å oppnå tilfredshet gjennom å etablere og ivareta relasjoner til andre.

@@ -1,0 +1,1 @@
+Del av [[Mintzberg]]s modell

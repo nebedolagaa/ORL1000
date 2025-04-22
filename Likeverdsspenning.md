@@ -1,0 +1,1 @@
+Hvis en person opplever å investere mer innsats i arbeidet sitt enn det hen får igjen for innsatsen, kan det oppstå et misforhold eller det som kalles en likeverdsspenning

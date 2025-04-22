@@ -1,0 +1,2 @@
+[[Selvbestemmelsesteori]]
+[[Prososial motivasjon]]

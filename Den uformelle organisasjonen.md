@@ -1,0 +1,1 @@
+Uformelle organisasjoner legger vekt på ansattes behov, ønsker og preferanser og de mer eller mindre uformelle sosiale prosessene som danner grunnlaget for hva som blir gjort og ikke gjort

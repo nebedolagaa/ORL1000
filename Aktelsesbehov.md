@@ -1,0 +1,1 @@
+For eksempel anerkjennelse for vellykket jobbresultat eller en jobb med høyere status

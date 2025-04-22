@@ -1,0 +1,5 @@
+[[Den operative kjernen]]
+[[Mellomlederne]]
+[[Toppledelsen]]
+[[Teknostrukturen]]
+[[Støttestrukturen]]

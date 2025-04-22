@@ -1,0 +1,3 @@
+Organisasjoner er åpne systemer som er avhengige av ressurser og støtte fra omgivelsene. Når en organisasjon fremstår som legitim, oppfattes organisasjonen som at den står for noe som er "godt"., "bra", eller "riktig" som vurderes som viktig. Organisasjonens mål og strategi slik omgivelsene oppfatter det, kan bety mye for å oppnå legitimitet i omgivelsene. 
+
+Her kan du eksemplifisere med Securitas' [[kjerneverdier]]. Ærlighet, vaktsomhet, hjelpsomhet. Når Gunelie trenger oppdrag for at Securitas i Bodø skal tjene penger, og så har Robert ordnet en interessent. Men Gunelie må si nei til det interessenten spør om, og si hva man *kan* tilby fordi Securitas Bodø ikke har nok kapasitet ovenfor interessentens ønsker. 
