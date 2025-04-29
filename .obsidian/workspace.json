@@ -11,10 +11,14 @@
             "id": "03266af688223672",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Hersey og Blanchards modell for situasjonsbestemt ledelse.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hersey og Blanchards modell for situasjonsbestemt ledelse"
             }
           }
         ]
@@ -163,15 +167,31 @@
   },
   "active": "03266af688223672",
   "lastOpenFiles": [
-    "Miles og Snows ulike strategier.md",
-    "mellomledelse.md",
+    "Forventningsteori.md",
+    "kjerneverdier.md",
+    "Likeverdsteori.md",
+    "Legitim makt.md",
+    "Mintzberg.md",
+    "McGregor.md",
+    "Målorienteringsteori.md",
+    "Mål og intensjoner.md",
     "Maskinorganisasjonen.md",
-    "Den uformelle organisasjonen.md",
-    "byråkrati.md",
-    "Behovsteorier.md",
-    "behovet for makt.md",
-    "Argumentasjonsmakt.md",
-    "analytikere.md",
-    "Alderfer.md"
+    "Mintzbergs organisasjonsmodell.md",
+    "Organisasjon.md",
+    "Miles og Snows ulike strategier.md",
+    "Motivasjonsklima.md",
+    "Personlighet.md",
+    "Organisasjonsteorier.md",
+    "Instrumentalitet.md",
+    "forsvarere.md",
+    "Differensiering.md",
+    "Aktelsesbehov.md",
+    "Alderfer.md",
+    "Arbeidsdeling og spesialisering på avdelingsnivå.md",
+    "behovet for tilhørighet.md",
+    "Eksistensbehov.md",
+    "Digital plattform.md",
+    "Den klassiske organisasjonsteorien.md",
+    "Belønninger og motivasjon.md"
   ]
 }
